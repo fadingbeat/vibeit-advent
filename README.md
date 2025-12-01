@@ -4,7 +4,7 @@
 
 A fun, interactive Advent Calendar built for the tech community to share valuable developer tools, libraries, and resources throughout December. Each day unlocks a new, curated "gift" to discover!
 
-**Live Demo:** [https://vibeit-advent.vercel.app](https://vibeit-advent.vercel.app)
+**Live Demo:** [https://xmas.vibeit.hr](https://xmas.vibeit.hr)
 
 ## 💡 Concept
 
