@@ -57,4 +57,4 @@ To customize your calendar, find the `const adventData` array (around line 200) 
         // ... continue for days 3 to 24
     ];
 
-Made with ❤️ by VibeIT
+Made with ❤️ by [VibeIT](https://www.vibeit.hr/en)
